@@ -17,10 +17,7 @@ JWT Bearer Authentication is used for authorization & authentication.
 
 ## Deployment
 
-To deploy this project run
-
-Download the files and open it in VS.
-
+Download the files and open it in VS then run the project.
 
 ## How to Test
 - First create a new user.
