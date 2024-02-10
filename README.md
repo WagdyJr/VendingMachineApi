@@ -15,7 +15,6 @@ CRUD operations are implemented for both Users and Products.
 I used inMemory database for this API.
 JWT Bearer Authentication is used for authorization & authentication.
 
-Inorder
 ## Deployment
 
 To deploy this project run
